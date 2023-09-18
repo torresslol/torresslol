@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @torresslol
-- 👀 I’m interested in iOS, Android and any other funny code
+- 👀 I’m interested in iOS, Android
 - 🌱 I’m currently learning Kotlin And Js
 - 📫 How to reach me Torresatsh@gmail.com
 
